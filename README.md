@@ -4,7 +4,7 @@
 - 🤖 I'm an alumni of the A.I Engineering Master's Program at Simplilearn
 - 📊 I'm a graduate of the Data Science apprenticeship / bootcamp at Flatiron School.
 - 👍🏾 I'm a former student of Texas A&M University's Dwight Look Collge of Engineering in College Station, TX.  
-- 🌱 I’m currently learning Node.js and Solidity; and completing the Master's of Masters in Tech Program via Simplilearn.
+- 🌱 I’m currently learning Node.js and Solidity; and completing the Master's of Masters in Tech Program.
 - 👯 I’m looking to collaborate on Open Source Data Projects and speak at any events to encourage kids to go into DATA!!!
 - 🤔 I’m looking for help with UX/UI for two of my websites. The first one is for my book [BCUBC.life] and the second is [RudaWorld.com]
 - 💬 Ask me anything about data [here](https://github.com/cousinskeeta/cousinskeeta/issues)
