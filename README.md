@@ -1,12 +1,12 @@
 ### Howdy! 👋
 
-- 🔭 I’m currently working on cool stuff as a Data Business Optimization Engineer at [Gainwell Technologies]() !
-- 📊 I'm also working part-time as a data specialist at [New Reach, Inc.]() ! 
-- 🤖 I'm an alumni of the A.I Engineering Master's Program at [Simplilearn]() !
-- 📊 I'm a graduate of the Data Science apprenticeship / bootcamp at [Flatiron School]() !
-- 👍🏾 I'm a former student with a BS Industrial Distribution degree from Texas A&M University's [Dwight Look Collge of Engineering]() !  
-- 🌱 I’m promoting my second book entitled, *"Chain Reaction: Unleashing the Power of Blockchains"*, feel free to support [here](https://bcubc.life)!
-- 👯 I’m happy to announce the launch of my new startup, [Lailia AI](https://lailia.ai)! <-- Sign up on the site for updates !!!
+- 🔭 I’m currently working on cool stuff as a Data Business Optimization Engineer at [Gainwell Technologies](https://gainwelltechnologies.com) !
+- 📊 I'm also working part-time as a Data Specialist at [New Reach, Inc.](https://newreach.org) ! 
+- 🤖 I'm an alumni of the A.I Engineering Master's Program at [Simplilearn](https://www.simplilearn.com/) !
+- 📊 I'm a graduate of the Data Science apprenticeship / bootcamp at [Flatiron School](https://flatironschool.com/) !
+- 👍🏾 I'm a former student with a BS Industrial Distribution degree from [Texas A&M University's Dwight Look Collge of Engineering]() !  
+- 🌱 I’m promoting my second book entitled, [*"Chain Reaction: Unleashing the Power of Blockchains"*](https://bcubc.life)!
+- 👯 I’m happy to announce the launch of my new startup, [Lailia AI](https://lailia.ai) !!!
 - 💬 Ask me anything about data [here](https://github.com/cousinskeeta/cousinskeeta/issues)
 - 📫 How to reach me: Email via contact[@]jacobtadesse.com
 - ⚡ Fun fact: I co-authored my first book on cryptocurrency in 2020, it's called, [Breaking Chains Using Blockchain: Cryptocurrency for Beginners](https://bcubc.life/?add-to-cart=18). 
