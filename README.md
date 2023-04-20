@@ -1,15 +1,14 @@
 ### Howdy! 👋
 
-- 🔭 I’m currently working on Homelessness Data projects at New Reach, Inc. 
+- 🔭 I’m currently working on cool stuff at Gainwell Technologies and also work part-time non-profit projects at New Reach, Inc. 
 - 🤖 I'm an alumni of the A.I Engineering Master's Program at Simplilearn
 - 📊 I'm a graduate of the Data Science apprenticeship / bootcamp at Flatiron School.
 - 👍🏾 I'm a former student of Texas A&M University's Dwight Look Collge of Engineering in College Station, TX.  
-- 🌱 I’m currently learning Node.js and Solidity; and completing the Master's of Masters in Tech Program.
-- 👯 I’m looking to collaborate on Open Source Data Projects and speak at any events to encourage kids to go into DATA!!!
-- 🤔 I’m looking for help with UX/UI for two of my websites. The first one is for my book [BCUBC.life] and the second is [RudaWorld.com]
+- 🌱 I’m promoting my second book entitled, "Chain Reaction: Unleashing the Power of Blockchains", feel free to support [here][https://bcubc.life]!
+- 👯 I’m happy to announce the launch of my new startup, [Lailia AI][https://lailia.ai]! <-- Sign up on the site for updates !!!
 - 💬 Ask me anything about data [here](https://github.com/cousinskeeta/cousinskeeta/issues)
 - 📫 How to reach me: Email via contact[@]jacobtadesse.com
-- ⚡ Fun fact: I co-authored my first book, it's called, [Breaking Chains Using Blockchain: Cryptocurrency for Beginners](https://bcubc.life/?add-to-cart=18). 
+- ⚡ Fun fact: I co-authored my first book on cryptocurrency in 2020, it's called, [Breaking Chains Using Blockchain: Cryptocurrency for Beginners](https://bcubc.life/?add-to-cart=18). 
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cousinskeeta&show_icons=true&include_all_commits=true&theme=radical" alt="cousinskeeta's github stats" />
