@@ -5,8 +5,7 @@
 - 🤖 I'm an alumni of the A.I Engineering Master's Program at [Simplilearn](https://www.simplilearn.com/) !
 - 📊 I'm a graduate of the Data Science apprenticeship / bootcamp at [Flatiron School](https://flatironschool.com/) !
 - 👍🏾 I'm a former student with a BS Industrial Distribution degree from [Texas A&M University's Dwight Look Collge of Engineering]() !  
-- 🌱 I’m promoting my second book entitled, [*"Chain Reaction: Unleashing the Power of Blockchains"*](https://bcubc.life)!
-- 👯 I’m happy to announce the launch of my new startup, [Lailia AI](https://lailia.ai) !!!
+- 🌱 I’m promoting my second book entitled, [*"Chain Reaction: Unleashing the Power of Blockchains"*](https://www.barnesandnoble.com/w/chain-reaction-robert-bazile/1144091467), this one is on Barnes & Noble + Walmart online!
 - 💬 Ask me anything about data [here](https://github.com/cousinskeeta/cousinskeeta/issues)
 - 📫 How to reach me: Email via contact[@]jacobtadesse.com
 - ⚡ Fun fact: I co-authored my first book on cryptocurrency in 2020, it's called, [Breaking Chains Using Blockchain: Cryptocurrency for Beginners](https://bcubc.life/?add-to-cart=18). 
