@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-- 🔭 I’m currently working on cool stuff as a Data Business Optimization Engineer at [Gainwell Technologies](https://gainwelltechnologies.com) !
+- 🔭 I’m currently working on cool stuff as a Data Business Optimization Engineer at [Gainwell Technologies](https://gainwelltechnologies.com) [I made a separate profile for work haha! [HMSJacob](https://github.com/HMSJacob)
 - 📊 I'm also working part-time as a Data Specialist at [New Reach, Inc.](https://newreach.org) ! 
 - 🤖 I'm an alumni of the A.I Engineering Master's Program at [Simplilearn](https://www.simplilearn.com/) !
 - 📊 I'm a graduate of the Data Science apprenticeship / bootcamp at [Flatiron School](https://flatironschool.com/) !
