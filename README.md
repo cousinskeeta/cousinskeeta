@@ -65,13 +65,4 @@ LangChain | LangGraph | LLM Workflows | REST APIs | HTML | CSS | JavaScript | GA
 * BCUB: [bcubc.life](https://bcubc.life)
 * Ask me about data, AI, automation, blockchain education, or building useful technical products.
 
----
 
-## GitHub Stats
-
-### Personal Account: `cousinskeeta`
-
-<p>
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=cousinskeeta&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=21600" alt="cousinskeeta GitHub stats" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cousinskeeta&layout=compact&theme=radical&cache_seconds=21600" alt="cousinskeeta top languages" />
-</p>
