@@ -69,6 +69,9 @@ LangChain | LangGraph | LLM Workflows | REST APIs | HTML | CSS | JavaScript | GA
 
 ## GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cousinskeeta&show_icons=true&include_all_commits=true&theme=radical" alt="cousinskeeta's github stats" />
+### Personal Account: `cousinskeeta`
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cousinskeeta&layout=compact&theme=radical" />
+<p>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=cousinskeeta&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=21600" alt="cousinskeeta GitHub stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cousinskeeta&layout=compact&theme=radical&cache_seconds=21600" alt="cousinskeeta top languages" />
+</p>
